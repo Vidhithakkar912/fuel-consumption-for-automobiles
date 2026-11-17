@@ -9,4 +9,4 @@
 
 ## Driving & Vehicle Variables: Speed, distance, vehicle load, and auxiliary usage (like AC or heating).
 ## what are the causes and variables affect to the fuel consumption for vehicles  i had a data for car fuel consumption analysis.
-## temperature, summer , winter , monsoon affects  and  
+
